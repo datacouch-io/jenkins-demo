@@ -1,5 +1,5 @@
 #!/bin/bash
 
-who="World"
+who="Hello World"
 
 echo "Hello, $who!"
